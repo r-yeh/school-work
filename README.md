@@ -1,2 +1,2 @@
 # school-work
-Archives of past projects from school
+A simple repository of past projects and assignments from my schooling.
